@@ -1,5 +1,4 @@
 {
-  "extends": "@vtex/tsconfig",
   "compilerOptions": {
     "noEmitOnError": false,
     "lib": ["dom"],
